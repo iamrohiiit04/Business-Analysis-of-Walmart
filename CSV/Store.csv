@@ -1,0 +1,46 @@
+store_id,store_type,store_size,store_name,street_address,city,state,zip_code,country,phone_number_1,latitude,longitude
+1,A,151315,Hagerstown Supercenter,17850 Garland Groh Blvd,Hagerstown,MD,21740,US,301-714-1373,39.658092,-77.74905
+2,A,202307,Elkton Supercenter,1000 E Pulaski Hwy,Elkton,MD,21921,US,410-398-1070,39.603188,-75.792787
+3,B,37392,Prince Frederick Store,150 Solomons Island Rd N,Prince Frederick,MD,20678,US,410-535-3790,38.540822,-76.591415
+4,A,205863,Severn Supercenter,407 George Claus Blvd,Severn,MD,21144,US,410-582-9990,39.146418,-76.646598
+5,B,34875,Waldorf Store,11930 Acton Ln,Waldorf,MD,20601,US,301-705-7070,38.639191,-76.894969
+6,A,202505,Salisbury Supercenter,2702 N Salisbury Blvd,Salisbury,MD,21801,US,410-860-5095,38.417387,-75.569167
+7,B,70713,Easton Store,8155 Elliott Rd,Easton,MD,21601,US,410-819-0140,38.772711,-76.05434
+8,A,155078,Aberdeen Supercenter,645 S Philadelphia Blvd,Aberdeen,MD,21001,US,410-273-9200,39.49498,-76.177507
+9,B,125833,Westminster Store,280 Woodward Rd,Westminster,MD,21157,US,410-857-8307,39.585473,-76.984056
+10,B,126512,Bowie Store,3300 Crain Hwy,Bowie,MD,20716,US,301-805-8850,38.935591,-76.720454
+11,A,207499,California Supercenter,45485 Miramar Way,California,MD,20619,US,301-737-4420,38.292897,-76.503334
+12,B,112238,Abingdon Store,401 Constant Friendship Blvd,Abingdon,MD,21009,US,410-569-9403,39.4621,-76.3147
+13,A,219622,Laurel Supercenter,3549 Russett Grn,Laurel,MD,20724,US,301-604-0180,39.0986317,-76.8024694
+14,A,200898,Lavale Supercenter,12500 Country Club Mall Rd,Lavale,MD,21502,US,301-729-5081,39.624903,-78.835052
+15,B,123737,Catonsville Store,6205 Baltimore National Pike,Catonsville,MD,21228,US,410-719-0600,39.2817202,-76.7511923
+16,B,57197,Owings Mills Store,9750 Reistertown Road A,Owings Mills,MD,21117,US,443-394-0168,39.406212,-76.766861
+17,B,93188,Dundalk Store,2399 North Point Blvd,Dundalk,MD,21222,US,410-284-5412,39.2854,-76.4983
+18,B,120653,Mount Airy Store,209 E Ridgeville Blvd,Mount Airy,MD,21771,US,301-829-4433,39.367014,-77.162379
+19,A,203819,Nottingham Supercenter,8118 Perry Hills Ct,Nottingham,MD,21236,US,410-882-9815,39.379153,-76.510068
+20,A,203742,Frederick Supercenter,7400 Guilford Dr,Frederick,MD,21704,US,301-631-0805,39.39644,-77.410976
+21,B,140167,Clinton Store,8745 Branch Ave,Clinton,MD,20735,US,301-877-0502,38.772247,-76.889544
+22,B,119557,La Plata Store,40 Drury Dr,La Plata,MD,20646,US,301-392-9112,38.550627,-76.982551
+23,B,114533,Hanover Store,7081 Arundel Mills Cir,Hanover,MD,21076,US,410-579-8725,39.1557389,-76.7324745
+24,A,203819,Cambridge Supercenter,2775 Dorchester Sq,Cambridge,MD,21613,US,410-221-0292,38.553228,-76.052755
+25,B,128107,Baltimore Store,6420 Petrie Way Rd,Baltimore,MD,21237,US,410-687-4858,39.3373245,-76.4878526
+26,A,152513,Glen Burnie Supercenter,6721 Chesapeake Center Dr,Glen Burnie,MD,21060,US,410-863-1280,39.190013,-76.605743
+27,A,204184,Germantown Supercenter,20910 Frederick Rd,Germantown,MD,20876,US,301-515-6700,39.19882,-77.252444
+28,A,206302,Ellicott City Supercenter,3200 North Ridge Rd,Ellicott City,MD,21043,US,410-418-5780,39.2828,-76.8207
+29,B,93638,Baltimore Store,112 Carroll Island Rd,Baltimore,MD,21220,US,410-335-5669,39.336616,-76.400912
+30,C,42988,Randallstown Neighbourhood Store,8730 Liberty Rd,Randallstown,MD,21133,US,443-576-3132,39.3659953,-76.7815587
+31,A,203750,Sykesville Supercenter,"6400a Ridge Road, Suite 1",Sykesville,MD,21784,US,410-549-5400,39.3965368,-76.9347117
+32,A,203007,Pocomoke City Supercenter,2132 Old Snow Hill Rd,Pocomoke City,MD,21851,US,410-957-9600,38.072685,-75.554149
+33,A,39690,Berlin Supercenter,11416 Ocean Gtwy,Berlin,MD,21811,US,410-629-0502,38.339359,-75.162617
+34,A,158114,Cockeysville Supercenter,1 Frankel Way,Cockeysville,MD,21030,US,410-628-0980,39.47064,-76.643297
+35,B,103681,Arbutus Store,3601 Washington Blvd,Arbutus,MD,21227,US,410-737-7700,39.248504,-76.66744
+36,A,39910,Frederick Supercenter,2421 Monocacy Blvd,Frederick,MD,21701,US,301-644-2440,39.446006,-77.387222
+37,C,39910,Denton Neighbourhood Store,610 Legion Rd,Denton,MD,21629,US,410-479-0278,38.874403,-75.821694
+38,C,39690,Landover Neighbourhood Store,6210 Annapolis Rd,Landover Hills,MD,20784,US,301-773-7848,38.942875,-76.907956
+39,A,184109,Hampstead Supercenter,2320 No. Hanover Pike,Hampstead,MD,21074,US,410-374-5344,39.636036,-76.869339
+40,A,155083,Oakland Supercenter,13164 Garrett Hwy,Oakland,MD,21550,US,301-334-8400,39.422278,-79.391102
+41,A,196321,Salisbury Supercenter,409 N Fruitland Blvd,Salisbury,MD,21826,US,410-341-4803,38.3283334,-75.6104357
+42,C,39690,Columbia Neighbourhood Store,6405 Dobbin Rd,Columbia,MD,21045,US,410-740-2448,39.19579,-76.819837
+43,C,41062,Towson Neighbourhood Store,1238 Putty Hill Ave Ste 5,Towson,MD,21286,US,410-494-4610,39.395207,-76.580363
+44,C,39910,Dunkirk Neighbourhood Store,10600 Towne Center Blvd,Dunkirk,MD,20754,US,410-257-2610,38.722503,-76.65699
+45,B,118221,Fallston Store,303 Fallston Blvd,Fallston,MD,21047,US,443-686-7037,39.498449,-76.384659
